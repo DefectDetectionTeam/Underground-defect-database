@@ -1,2 +1,2 @@
-# Underground target radar image database
+# Underground defect database
 This underground target radar image database, constructed in this study, comprises measured radar images, simulated radar images, and CycleGAN-generated images. The actual radar images are collected from various subsurface hazard areas in Zhejiang, China, including urban roads and highways. The types of defects or targets include voids, cavities, pipelines, insufficient compaction, and other underground structures. This dataset is a major contribution of the paper “A semi-supervised dual-path model for underground defect detection” and will be made available after the paper is published.
